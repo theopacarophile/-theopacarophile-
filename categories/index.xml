@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Touchy Hugo | Minimal Blog Theme</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on Touchy Hugo | Minimal Blog Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Sep 2020 11:07:10 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nature</title>
+      <link>https://examplesite.com/categories/nature/</link>
+      <pubDate>Tue, 01 Sep 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://examplesite.com/categories/photography/</link>
+      <pubDate>Tue, 01 Sep 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>population</title>
+      <link>https://examplesite.com/categories/population/</link>
+      <pubDate>Tue, 01 Sep 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videography</title>
+      <link>https://examplesite.com/categories/videography/</link>
+      <pubDate>Tue, 01 Sep 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/videography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
